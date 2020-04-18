@@ -1,3 +1,8 @@
+##################################
+# Author: Siddharth Chandrasekhar
+# Date: April 2020
+##################################
+
 
 ####    Section 1: Installing and initializing packages  ####
 rm(list = ls())
